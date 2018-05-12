@@ -1,0 +1,40 @@
+_repo: Safe-Marriage--A-Return-to-Sanity_16135
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Lane, William Arbuthnot, Sir
+    alias: Lane, W. Arbuthnot (William Arbuthnot), Sir
+    birthdate: 1856
+    deathdate: 1943
+    gutenberg_agent_id: '6507'
+    url: http://www.gutenberg.org/2009/agents/6507
+    wikipedia: http://en.wikipedia.org/wiki/Sir_William_Arbuthnot-Lane%2C_1st_Baronet
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rout, Ettie Annie
+    aliases:
+    - Rout, E. A. (Ettie Annie)
+    - Hornibrook, Ettie A. (Ettie Annie)
+    birthdate: 1877
+    deathdate: 1936
+    gutenberg_agent_id: '6506'
+    url: http://www.gutenberg.org/2009/agents/6506
+description: ''
+gutenberg_bookshelf: Sociology
+gutenberg_issued: '2005-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16135'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Contraception'
+- !lcsh 'Birth control'
+title: 'Safe Marriage: A Return to Sanity'
+url: http://www.gutenberg.org/ebooks/16135
